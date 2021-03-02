@@ -7,8 +7,8 @@ The repair shop can accommodate multiple cars in the yard. Every car will have o
 	As you know, a car may be identified by its license plate. The car also has an owner who has a phone number. 
 	When a car is brought to the workshop, it is admitted if there is an available place for it. Then it passes through the states enumerated above.
 ## Features
-*	Written in *Java and Swing*
-*	Using a remote *MySQL server*
+*	Written in **Java and Swing**
+*	Using a remote **MySQL server**
 *	Log In menu
 *	Sign Up possibility for new users
 *	User menu
