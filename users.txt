@@ -1,0 +1,8 @@
+user1 123 user1@gmail.com 0723456788 0
+user2 123 user2@gmail.com 0788456781 0
+admin 123 admin@gmail.com 0711111111 1
+user4 123 user4@gmail.com 0722222222 0
+asd2 123456789 123@asd.k 1234567890 0
+asdFromRegister asd1233 asdFromRegister@gmail.com 0712345678 0
+giurazvan giurazvan giurazvan@gmail.com 0745233483 1
+jkl123 1234567890 jklpoi@gmail.com 0987654321 0
