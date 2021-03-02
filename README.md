@@ -1,4 +1,8 @@
 # CarRepairShop-OOP_Project
+## Languages
+* Java
+* MySQL
+* 
 ## Description
 The repair shop can accommodate multiple cars in the yard. Every car will have one of the following
   states: waiting to diagnose, diagnosed, waiting for parts, in repair and ready.
